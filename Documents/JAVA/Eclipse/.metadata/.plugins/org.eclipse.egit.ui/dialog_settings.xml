@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/GabrielMart-hub/EX_TI02.git"/>
+		<item value="https://github.com/GabrielMart-hub/EXTI2.git"/>
+		<item value="https://github.com/GabrielMart-hub/ex1_ti2.git"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="gabriel &lt;gabrielmart.pereira@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="gabriel &lt;gabrielmart.pereira@gmail.com&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="true"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="/home/gabriel/git/EX_TI02/.git">
+			<item value="empty"/>
+		</list>
+		<list key="/home/gabriel/git/EXTI2/.git">
+			<item value="empty"/>
+		</list>
+	</section>
+</section>

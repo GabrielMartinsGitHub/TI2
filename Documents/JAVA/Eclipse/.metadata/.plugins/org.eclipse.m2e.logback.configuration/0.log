@@ -1,0 +1,12 @@
+2022-03-24 23:42:14,917 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-24 23:58:47,169 [Worker-5: Refreshing Git Repositories data] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/home/gabriel/Documents/JAVA/Eclipse/git/ex1_ti2/.git]
+2022-03-25 00:10:20,393 [Worker-15: Refreshing Git Repositories data] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/home/gabriel/Documents/JAVA/Eclipse/git/EX_TI02/.git]
+2022-03-25 00:10:28,294 [Worker-15: Refreshing Git Repositories data] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/home/gabriel/Documents/JAVA/Eclipse/git/repository/cp/.git]
+2022-03-25 00:39:06,982 [Worker-22: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/home/gabriel/git/EX_TI02/.git]
+2022-03-25 00:39:18,216 [Worker-14: Refreshing Git Repositories data] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/home/gabriel/Documents/JAVA/Eclipse/git/EXTI2/.git]
+2022-03-25 00:47:11,963 [Worker-23: Refreshing Git Repositories data] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/home/gabriel/Documents/JAVA/Eclipse/git/EXTI2/.git]
+2022-03-25 00:51:29,592 [Worker-14: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/home/gabriel/git/EXTI2/.git]
+2022-03-25 00:52:17,743 [Worker-14: Git Repository Change Scanner] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/home/gabriel/Documents/JAVA/Eclipse/git/EXTI2/.git]
+2022-03-25 00:55:15,807 [Worker-24: Refreshing Git Repositories data] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/home/gabriel/git/EXTI2/.git]
+2022-03-25 01:10:17,162 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-25 01:10:31,022 [Worker-8: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/home/gabriel/git/EX_TI02/.git]
